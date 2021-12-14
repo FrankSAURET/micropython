@@ -6,7 +6,7 @@
 Documentation du BBC micro:bit MicroPython
 ==========================================
 
-Bienvenu!
+Bienvenue !
 
 Le BBC micro:bit est un petit dispositif informatique pour les enfants. L'un des
 langages qu'il comprend est le langage de programmation poopulaire Python. La
